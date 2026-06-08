@@ -1,0 +1,100 @@
+# Your TAs need your help: sign the petition to save EECS/DS
+Subreddit: r/berkeley
+Posted by: u/gabeclasson
+Score: 137    Comments: 67
+URL: https://www.reddit.com/r/berkeley/comments/11ytb7x/your_tas_need_your_help_sign_the_petition_to_save/
+
+## Original post
+Sign the petition to save EECS/DS: [eecsdsstaff.org/petition](http://eecsdsstaff.org/petition)
+
+As you might have heard, TAs, tutors, and readers (or academic student employees, ASEs) in the EECS/DS departments are currently bargaining with the University of California. After last year's historic strike, the university agreed to negotiate with us over increasing staffing and improving instructional quality in the EECS/DS departments. We hoped this would be an opportunity for us to solve the long OH wait times, packed classrooms, and overwork which have plagued the departments for years. 
+
+We've been bargaining for almost two months now. A bunch of detailed proposals are involved, and if you'd like to learn more about them, please visit our website at [eecsdsstaff.org](http://eecsdsstaff.org/). But **here's the bottom line:** the university currently spends $9.8 million per year on undergraduate instructors in EECS/DS. Its proposals want to take that to $5.8 million. That's a $4 million, 41% cut. **There is no way to improve instructional quality when you slash teaching spending by 41%. It is not mathematically possible.** 
+
+As a student worker at the bargaining table, it has been extremely frustrating to me that the faculty on the other side of it—including the university's lead negotiator, Professor John DeNero—have been publicly advocating for me and my colleagues' pay and benefits to be cut by 76% rather than focusing their efforts on pressuring central campus administrators for more funding. And while ASEs are willing to take less pay and benefits than the university agreed to pay us to help the department save money, it is simply not possible to make up that 41% cut. **The only reasonable solution to this crisis is an increase in support from campus administration.** And the only way we can achieve that is if we come together as a community—students, ASEs, lecturers, and faculty—and demand it. 
+
+The first thing you can do is **sign our petition** at [eecsdsstaff.org/petition](http://eecsdsstaff.org/petition). The next thing you can do is to **call and email EVCP Ben Hermalin** at 510-642-1961 and hermalin@berkeley.edu (cc: EVCP@berkeley.edu) to tell him to fully fund instruction in the EECS/DS departments. You can use a template email/script[ here](https://docs.google.com/document/d/1BoAjtyOE3XEU86-NWuWcQNXe2CTx5U-fomsBOSi3k_s/edit), but make this your own — describe the unique and troubling circumstances within the EECS/DS departments that you have personally experienced as a student/ASE. 
+
+This is a battle for the soul of the EECS/DS departments. And we need your help to win. 
+
+Gabe Classon
+
+CS 61A uGSI
+
+(Share this message with your peers and post it to Ed boards.)
+
+## Top comments
+
+[u/WafflePeak — score 57]
+This is a specially an exception for the Berkeley EECS department whereas the rest of the strike was for student workers (specially grad students since basically no one else hires undergrads for this sort of thing). At the end of the strike it was put in the contract that a specific agreement for EECS would be made at a later date. Unfortunately getting to that agreement has gotten pretty difficult in the past few weeks.
+
+[u/bill_gates_lover — score 56]
+Why wasn't this bargaining completed during the strike last semester...
+
+[u/WafflePeak — score 47]
+I agree that we don’t want to hurt other departments in the process, but it is worth noting that last year CS + EECS + DS majors made up 23.6% of all graduating students. I think the argument that this department is special and is different from the others and therefore deserves more attention and money has a lot of merit.
+
+[u/WafflePeak — score 30]
+You’re last point is definitely not accurate. TA and tutor overwork is the big reason the union is currently asking for an increase in staffing. No one is just sitting around and taking checks for doing nothing, and even when TAs have time off (like in Spring break) the huge overwork the rest of the semester means they are still working more hours than they are appointed for.
+
+[u/Fair_Anywhere_4816 — score 24]
+why would private companies cutting headcount influence the amount of TAs? The number of students in these classes is not expected to be cut so why would we hire less uGSIs?
+
+[u/justlurkinmostly — score 23]
+I agree in principle that more money from administration would be ideal, but how feasible is that? It's not as if the administration has infinite money stashed away that nobody's using. Any increase in EECS funding will come at someone else's expense, likely the expense of another department.
+
+Although EECS funding is very important, it isn't, and shouldn't be, more important than everything else. I'm sure there are things I'm not taking into account, but it seems like any solution that doesn't involve more state funding would include major drawbacks.
+
+[u/Javatarg02 — score 23]
+Historically the administration will always make the claim that there is simply not enough money and that agreeing will result in a collapse of the administration, however, almost every time the administration is able to provide the money and the university remains intact with the most recent example being the strike last semester in which the administration claimed they would not be able to afford the increases in wages initially proposed by the Union but by December had agreed to pay significantly more.
+
+I would also like to note that while the university claims it does not have the money, the CDSS's creation of a new college has expanded the roster of vice provosts and associate deans in a way that has added $2M payroll costs, as well as $30M for the athletic department. It is not a problem of the university being unable to pay, it is that the university is unwilling to pay. If the central administration did not have the money they would not have agreed to negotiate for increases in staffing.
+
+The EECS/DS Department has the highest student-to-faculty ratio out of any other department but is also the most understaffed. This is not to say that EECS/DS should be placed on a pedestal above other departments, but a call for the University to address the current state of overwork and understaffing in the EECS/DS Department.
+
+[u/Javatarg02 — score 20]
+Compared to other Universities, the EECS/DS Department is unique not only in the amount of undergraduate TAs that are hired but in the responsibilities they carry out. At most universities across the campus, undergraduate teaching instructors have considerably constrained responsibilities such as not being able to lead discussion or lab sections on their own, play a role in the creation of course content, and other administrative roles, all of which undergraduate student instructors in the EECS/DS regularly perform.
+
+Looking back to this past fall and the impacts of the strike we can see how a majority of the classes in the EECS/DS Department that were held together by TAs were unable to function when members of course staff went on strike. I'd argue that EECS/DS TAs contribute immensely to the inner workings of the department as a whole.
+
+For many ASEs the absence of fee remission and a decrease in wages would not allow them to continue in the role which would lead to a drastic decrease in the number and diversity of an already understaffed system and the severe overwork of those who were able to remain on course staff.
+
+[u/WafflePeak — score 18]
+They are appointed for a number of hours a week to work and are expected to exceed that number. Tutors especially who have to log their hours on a time sheet are regularly told to just 8 (or however many they are appointed for) hours regardless of how much they work a week.
+
+[u/Infamous-One9455 — score 17]
+Don’t CS TAs already make way more than they’re worth?
+
+[u/goblinrum — score 17]
+The list of tasks and expectations for a TA usually exceed the hours they are hired for. For example, an 8 hour TA might be expected to do a discussion (1 hr), a lab (2 hr), office hours(2 hr), answer Edstem questions (1-2 hr), administrative duties, help students with debug tickets (1-2 hr), exam and content writing, and more. The baseline adds up to more than 8 hours and on busy weeks like exam and project weeks, significantly more. Many of the course staff love the courses they teach and will do the extra work to run these classes, but they are often not paid and not recognized for what they do.
+
+[u/WafflePeak — score 17]
+They are given more work than can be accomplished in the time they have to do it so they have to go over.
+
+[u/Javatarg02 — score 15]
+The bargaining during the strike last semester involved negotiations over ASEs for the entire University of California System, whereas bargaining over increased staffing has involved the University and the EECS/DS department at Berkeley specifically. As part of the agreement, for the first time in history, the University agreed to negotiate over increasing EECS/DS Course Staffing levels starting this past February, and since then ASEs have been trying to reach an agreement with the university.
+
+[u/Fair_Anywhere_4816 — score 12]
+it not being immune to market downturn has nothing to do with what we’re talking about lol. Berkeley cs doesn’t have to upsize/downsize based on the market, it has to upside/downsize respective to student demand
+
+[u/Fair_Anywhere_4816 — score 12]
+why is the job market relevant to pay practices of undergraduate gsis? you mention layoffs as if there is any relevance to what we’re discussing
+
+[u/DmC8pR2kZLzdCQZu3v — score 10]
+EECS is always special, it seems, in many regards
+
+[u/larrytheevilbunnie — score 10]
+You're grossly overestimating how much smart people need to work during internships
+
+[u/arhanv — score 9]
+Just curious, how much do they make? I thought GSI wages were standardized
+
+[u/justlurkinmostly — score 8]
+That's true, but that figure is partially due to overenrollment allowed by unsustainable policies in the College of Letters and Sciences. Hence, why a big part of their plans moving forward isn't just decreasing uGSI pay but also reducing enrollment in the major.
+
+There's a whole discussion to be had about whether reducing enrollment is a desired thing, but I don't really want to get into that. Besides, I think it's somewhat unrelated to the discussion at hand.
+
+I'll support pushing for more money to be allocated to EECS when there's a tangible, detailed plan of where that money is coming from. Otherwise, it's just going to cause other issues somewhere else in the budget.
+
+[u/evilmonk234 — score 7]
+you make x amount a week for a specific number of hours, no overtime. Yet, you work overtime quite frequently . if you think it’s so easy try to work for one instead of speaking like this and yes i am on staff, there’s a reason not everyone wants to do this job

@@ -1,0 +1,72 @@
+# When does 61A check for anti plagiarism
+Subreddit: r/berkeley
+Posted by: u/Cal_Fail23
+Score: 3    Comments: 30
+URL: https://www.reddit.com/r/berkeley/comments/za7vb6/when_does_61a_check_for_anti_plagiarism/
+
+## Original post
+So I'm withdrawn for the semester and kinda been paranoid about something stupid. I took 61A this semester after finishing it and failing it last semester like a moron. I did do all the projects though so I've been reusing my old code because it was stated to be allowed in the syllabus quiz. I submitted all the projects I did last semester to the syllabus quiz that asked for it to avoid making me being detected by the anticheat except the last 2 questions of my scheme project which I figured out I didn't submit to the syllabus quiz for some reason. I contacted professor Denero and he said I should be fine and I won't be penalized. This made me curious though, does anyone know when 61A staff actually checks the stuff for plagiarism. Is this when they release grades for the assignments? I'm just being extra paranoid since I'm scared my withdrawn grades would be like suddenly put back on my transcript if I'm like unfairly accused of academic misconduct after making sure with the course staff over 10 times through out the semester that I was allowed to reuse code. I'm obviously a nervous wreck, but I was curious if anyone knew more about the 61a cheating or if they were flagged for cheating at all if it was during or after the semester ended. Thank you!
+
+## Top comments
+
+[u/BrainyCardinal45 — score 12]
+The TAs are on strike, no professor is gonna try to moss 500+ students on their own. They’re right now trying to figure out how to write exams and proctor and have other shit on their mind besides projects and hws
+
+[u/SkyFaceSpace — score 3]
+This. Course staff has given up on manually checking for academic dishonesty for now except for extremely obvious cases (copy-paste). However, most people who do cheat tend to be really stupid anyway and will be dumb enough to something so egregious that they will be caught easily.
+
+[u/Impossible-Lab3869 — score 3]
+For assignments and projects you get penalized during the semester. The only thing they can actually penalize after the semester is the Final. They usually tell you or contact you if you cheat within 2 days to week given there is a GSI actively looking for cheaters.
+
+[u/d9090 — score 2]
+&gt;When does 61A check for an
+
+i forgor 💀
+
+[u/Cal_Fail23 — score 2]
+Did they immediately report you to center for student conduct or did you have a chance to explain yourself or defend yourself?
+
+[u/methaddlct — score 2]
+Actually crazy how many people are cheating in that class. Academic dishonesty detected to the scale where Ed posts are made. This is for half the projects too…
+
+[u/Feisty_Engine5722 — score 2]
+Was this during or after the semester?
+
+[u/SkyFaceSpace — score 2]
+If you've confirmed that with the staff, you should be fine. You will not be getting flagged for copying your own code if the staff have said that using your previous code is ok.
+
+[u/d9090 — score 1]
+They do. I got flagged for a project once.
+
+[u/d9090 — score 1]
+Right before the final
+
+[u/Significant_Image_53 — score 1]
+Do you mind sharing what the punishment was? I know cheating on an exam is an automatic F but that seems a bit harsh just for copying a bit on projects
+
+[u/Ok_Tailor_1275 — score 1]
+I just got this email for Summer 61a, and I'm really stressed. I was wondering if your partner ever ended up getting flagged or not? Or did they just send the warning email out and drop their case?
+
+[u/crazygurlwpinkhair — score 1]
+same here, I got flagged and I responded asking for more details and they replied with the evidence of cheating but have not said a punishment has been applied or if its still being considered. I am not sure what the next step is and if I should keep replying or just wait to hear more?
+
+[u/ExaminationFast6351 — score 1]
+did you get reported to CSC for cheating? Or just a point penalty?
+
+[u/Cal_Fail23 — score 1]
+ah ur good tho tyty!
+
+[u/Cal_Fail23 — score 1]
+I mean my code this semester for those last questions is the same as my code last semester so I guess it would appear as copy paste to them. But the last semester code is my own and I'm allowed to reuse so staff is technically not supposed to punish me for that. I know I haven't disobeyed class policy, I just wanted to get any misunderstandings out of the way beforehand.
+
+[u/Cal_Fail23 — score 1]
+Ty for your words haha. Ya Prof Denero said himself thank you for clarifying the situation and said I won't be penalized. I'm just kind of angsty after withdrawing cause it's my first time XD.
+
+[u/AppropriateToe1160 — score 1]
+CS 186 is doing it.
+
+[u/Cal_Fail23 — score 1]
+u mind if i ask which project it was? Was it scheme?
+
+[u/RepresentativeHeat46 — score 1]
+Manually checking?

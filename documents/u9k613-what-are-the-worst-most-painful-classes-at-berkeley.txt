@@ -1,0 +1,85 @@
+# What are the worst, most painful classes at Berkeley?
+Subreddit: r/berkeley
+Posted by: u/Zealousideal_Ball_73
+Score: 91    Comments: 47
+URL: https://www.reddit.com/r/berkeley/comments/u9k613/what_are_the_worst_most_painful_classes_at/
+
+## Original post
+I want the worst courses you've taken at this school. I want to feel excruciating, mind-numbing pain to test the limits of my sanity. Whether it be difficult because of ridiculously long problem sets, conceptually difficult material, unaccommodating/unfriendly course staff, and/or impossible exams. Ideally, I'd like a combination of some of these.
+
+I'd prefer STEM courses. I'm in EECS at the moment, so I've done quite a few courses in that area, but I'm down to explore other fields in order to achieve my goals. 
+
+As far as what I've taken so far: The only course that I've taken thus far that has somewhat satisfied my masochistic desires is EECS16B. CS170 has come close, but the problem sets were reasonable, Professor Nelson was too good at lecturing, and the course staff was too friendly for my liking. 
+
+I've heard great things about EE126 and CS162, so I'll probably give those a shot at some point. 
+
+Any other recommendations would be greatly appreciated!
+
+## Top comments
+
+[u/silkflowers47 — score 82]
+Any class that has a minimum gpa to declare
+
+[u/pheirenz — score 53]
+CS189 has this reputation. especially with sahai.
+
+[u/[deleted] — score 32]
+Take 189 and 162 and 120 and 127 together. That’ll do the trick.
+
+[u/ImpulsiveTeen — score 26]
+any math class starting with H
+
+[u/Nickvec — score 23]
+cs 162 in part caused me to withdraw last semester so probably that one
+
+[u/LandOnlyFish — score 22]
+He’s teaching CS182 next fall and will design the curriculum to be masochist oriented.
+
+[u/aStressedBear — score 20]
+Any class w sahai
+
+[u/feelin_raudi — score 17]
+Easy, that's Fluid Dynamics with Marcus. 
+
+He started the semester by letting us know that every single fluid dynamics textbook in the world was far too easy for  "an institution like ours," so he designed a course that's substantially more difficult than LITERALLY ANY TEXTBOOK ON EARTH.
+He also copyrights all of his notes and slides, and regularly threatened us with litigation if we ever showed anyone.
+
+[u/FlufferzPupperz — score 15]
+189 with Shewchuck when our midterm was half multiple choice choose multiple w no partial credit ):
+
+[u/Tianhech3n — score 11]
+chem 120A/phys 137A are tough. honestly many of the upper div Physics classes or math classes can rock your shit
+
+[u/SirensToGo — score 11]
+EECS151 might be good to throw in there too. There's no workload quite like trying to build an entire three stage core with an ML accelerator in three weeks (or less if you procrastinate)
+
+[u/random_throws_stuff — score 10]
+162 is definitely the highest workload CS class. difficulty-wise, no class has been as much of a mindfuck as cs270. I didn't take 126, but honestly 127/189 didn't feel any harder than 70/170 to me. and I thought 16b was a good bit easier than all of those.
+
+[u/NoobFade — score 10]
+Math H104 was the hardest class I've taken here, but I actually enjoyed it for the most part because it was very interesting. I got destroyed in that class and in regular 104 I have 100%. For comparison, I've taken CS189, 162, EECS 126, 226, 127 and gotten only A's or A+'s in them with less effort than getting rekt in H104.
+
+[u/zyonsis — score 10]
+Math H104 is pretty freakin' hard, if that's at all appealing to you. It was the first class I almost failed!
+
+[u/da3m0nn — score 9]
+graduating, and 16B has been worse than 189, 170 or anything else
+
+[u/Fluid_Boysenberry630 — score 8]
+EECS16B
+
+[u/ArnoF7 — score 7]
+EE126. It’s not only hard material-wise but when I took it (I don’t know if it’s improved now) it was one of the few upperdiv that refused to record the class, they also don’t have slides but just the professors writing on the board. So once you get lost there was nothing to refer to. Math upper div are like this as well, but usually they follow a well structured textbook (like baby Rudin for 104), and yet 126 is like 70 in which the topics are from different books here and there. And it didn’t have a official class notes like 70
+
+Also eecs106B. The workload is insane since doing hardware experiments with a real robot is very time consuming, and it’s basically a grad class where you need to read a bunch of papers. This one is a bit niche tho since it’s about robotics. When I took it there was only 20 or something classmates
+
+[u/Zealousideal_Ball_73 — score 7]
+i'm thinking CS189, CS162, Math H104, and EE126.
+
+[u/JiForce — score 6]
+Engineering 7
+
+Bio 1A, 1B
+
+[u/mindfoolmonkey — score 6]
+Mcb 102

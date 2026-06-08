@@ -1,0 +1,148 @@
+# Why Money Alone Won't Fix the CS Department
+Subreddit: r/berkeley
+Posted by: u/caughtthelast52home
+Score: 0    Comments: 21
+URL: https://www.reddit.com/r/berkeley/comments/uv46rh/why_money_alone_wont_fix_the_cs_department/
+
+## Original post
+This is something I have been trying to write about for several months now, but I'd decided to hold off sharing my full opinion online until I took some upper-division courses. My perceptions have only gotten worse since.
+
+The CS department is in crisis. There seems to be a sentiment among the UC Berkeley community that the problem can be solved just by throwing money at it. That will definitely help, but I think we need to look a little deeper. We need to use any new funding in the correct places. We need to use this crisis as an opportunity to be critical about the program. A time for change and reflection, if you will. There is a lot about the program that I think needs work, but I don't think enough people are speaking out about it. This is because a lot of people won't even think this is a problem.
+
+# Preface
+
+In terms of faculty, our program is exceptional and deserves to be as highly ranked as it is. I've had the opportunity to learn from (and even meet) some amazing CS professors that I doubt I will find anywhere else. However, this cannot come without considering the appalling state that is our undergraduate student experience in the program, especially because those that need the most support are hit the hardest.
+
+I'd also like to commend and thank u/cs70manifesto for [the post](https://www.reddit.com/r/berkeley/comments/ura55a/critique_cs70_is_made_artificially_harder_heres/) they wrote recently about ther gripes with CS70. Their post has proved to be more confirmation of my experiences, and the more people speaking out about this the merrier. We need our voices heard.
+
+# My Issues
+
+Here's a quick rundown of some of the things that frustrate me about our CS program. This isn't exhaustive, but these are the most important points and the ones other people I have talked to have shown an agreement with.
+
+**Mathematical Maturity**
+
+This is not a meme. This is a real thing. I know this because I have been made to believe that I lack it. I have been made to believe that it can be achieved in a matter of weeks while juggling 3 other classes, coping with the stress of declaration, and still being new to this whole living-far-away-from-home thing. Discrete math is not easy and very rarely part of a high school math curriculum, and proof-writing calls for very deep mathematical reasoning skills, not least proof-writing about difficult topics you have just learned about for the first time. This phenomenon is not exclusive to Berkeley - I have heard from computer science students at universities across the US and Canada that discrete math has been a major hurdle to overcome - but since so much of CS is underpinned by this field of mathematics, you'd hope that the number one CS program in the world would do the best job at teaching it.
+
+I'm not going to talk at length about what I dislike about 70 since much of my thoughts are echoed by u/cs70manifesto's post, but I feel as though my relatively shaky foundations compared to most of my peers going in have made me struggle later in the program. Any further classes that included a lot of proofs would hit me like a sledgehammer, no matter how much I enjoyed the content. Even proofs that were given to us in lectures would be hard for me to follow, let alone ones I had to come up with myself. Not to mention, my particular iteration of 70 seemed to have a couple more probability topics than normal, so we went through them very fast and I felt like all I was able to do on my final exam was regurgitate formulas and hope for the best. Over a year later, I'm still finding myself relearning a lot of probability theory because I want to fully appreciate it before dabbling with machine learning.
+
+For some, competitive math has given them a strong foundation to succeed here. I think it does a great job at building mathematical maturity, since you get used to solving completely new and challenging problems. And although I had a pretty solid math education in high school, at times I'd feel like I was learning how to solve problems just for the sake of doing well on an exam and pattern-matching to questions from past exams (as I'm sure almost everyone around me would). And no, I rarely had to write a proof in my high school career, and the ones I did have were all quite simple and followed very similar formats.
+
+**Cliques and Study Groups**
+
+Knowing people seems to be a requisite for success in CS classes. I've found that Berkeley has a strong culture of students always wanting to help each other, which is not a bad thing, but good luck getting that help if you don't know anyone. I do not like to be on Discord servers dedicated to specific classes, since they tend to be hotspots for cheating and I don't want to drag myself into any issues, no matter how anonymous my username may make me. However, I've always felt "forced" to join them just for the sake of finding study groups, project partners, or just some company in office hours. This was especially the case during remote learning when I knew no one at Berkeley. 
+
+Study groups have given me a lot of impostor syndrome. While ultimately I am carried through and am able to develop *just enough* understanding to be able to write up homework solutions on my own, I always get the feeling that I'm the weakest link in the group. I will sometimes contribute but I am almost always dominated by those with more prior experience than me. With how tough homework can be, along with the fact that collaboration is often allowed and even encouraged, relying on others to help you feels like a necessity at times. Going to office hours isn't easy with a loaded schedule, especially with how long queues can get, and those that struggle with social anxiety (like myself) may be put off by them, as I'll discuss shortly.
+
+In-person office hours have shown me an unfortunate truth - cliques are real. My observation in homework party OH in particular is that people show up in their groups and don't engage with other groups. Sometimes these groups won't even speak English! I've fallen victim to the "learning by osmosis" phenomenon a lot, but that can only go so far since I'm just picking up fragments of a solution without always having that understanding needed to piece it all together. Of course, staff can be there to help, but you can't count on there being enough of them to get to everyone in a timely manner. More funding will hopefully resolve this, but the point of homework party is to be a collaborative environment with staff mainly there to facilitate. Even in regular office hours, I've seen a great deal of TAs that assume certain things about your knowledge and don't really try to strike at the root of your question. And with that...
+
+**Elitism in Course Staff**
+
+I absolutely love that course staff in CS classes are largely undergrads. They seem a lot more vibrant when it comes to teaching and sharing their knowledge. I don't want to generalize - I've had some amazing GSIs that are actually, y'know, **G**SIs - but that seems to be less common than with uGSIs. Unfortunately, in some classes, there seems to be an emphasis on grades rather than ability in pedagogy. The lack of diversity is also striking. I think 61A does an exemplary job in promoting an inclusive environment, but a lot of other courses such as 70 and the more "mathy" upperdivs are lagging behind. I've started to see ASE applications for CS courses call for supplemental forms - let's see if that changes anything. Bottom line is there's a difference between having mastery of material and having the skills necessary to teach it in an effective way. 
+
+To me, elitism most frequently materializes in staff making assumptions about students' ability. Something that is easy to understand for them may require a more fundamental explanation for it to hit with a student. Start with the basics. I've also seen a few examples of math topics being assumed to be universal since most of the staff happened to learn it in their high school algebra classes, and even being required to use some of these topics in homework despite not even knowing that they exist. It's almost as if high school math curricula don't differ from country to country, state to state, or even school to school! And now that the SAT is optional, you can't even cling on to that as a benchmark for what people should know.
+
+&amp;#x200B;
+
+So those are my MAIN issues. I've completely skipped a few other things, from staff sometimes doing everything they can to prevent cheating at the cost of stressing innocent students out to the absolutely egregious way remote learning was handled in CS classes for students with nasty time zone differences, but whining about a problem without proposing solutions is useless. While we can't really change things like student culture and clubs (which I also have a strong distaste for but that's a topic for another time), we have a LOT to do to make the environment more accommodating for those that need it. 
+
+# Solutions
+
+**A Gentle Ease-In**
+
+It's easy for someone with less experience to be daunted by the curriculum. There is a more newcomer-friendly course in our department, namely CS10, but I don't think it is publicized well. Pretend you are a new CS freshman that knows nothing about Berkeley, knows no one there, and visiting campus before the deadline to commit is very tricky. All you gain about the program is reading the [eecs.berkeley.edu](https://eecs.berkeley.edu) website. The only place where CS10 is quoted on the CS BA page is under "Alternatives to the CS Major," which I'm not sure most students who are very keen on being a CS major will read. There is a statement about CS10 being good for no prior experience hidden in the FAQ, but again that's not blatantly obvious. The 61A page does have "programming experience equivalent to that gained from a score of 3 or above on the Advanced Placement Computer Science A exam" listed as a prerequisite, but this doesn't tell a student what to do if they don't have this experience or if they don't know what the AP CSA exam entails. Do they just give up and decide not to major in CS or not come to Berkeley altogether, because even the alleged intro class is inaccessible to them? They could probably piece together from the information available that taking CS10 would be of value, but I do think we need to do a better job of putting it out there that it exists and, more crucially, that there's no shame in taking it. 
+
+I think 61B follows nicely enough for 61A for there to be no necessary precursor, but 70 is so different to the two that the lack of any kind of gentle option is quite upsetting. It's a math course. It demands a different set of skills, such skills that can't be learned in a few weeks. The IMT decal was tried and failed, for reasons which I think are extremely pretentious. You don't want students controlling something branded as giving prospective students an edge, but you're fine letting people privileged enough to have been able to dedicate their high school career to competitive math cruise along just fine and keep the divide going? A staff-run version of this course which hires TAs who genuinely enjoy teaching from the ground up would work wonders. Of course, this is impossible without funding, but the whole reason I write this post is that the department needs to be wise with any funding they do get.
+
+**Make Minorities Feel Welcome**
+
+I've had the honor to be involved in Data Scholars in the past, and being part of that has showed me that things can be done right. I am aware that CS Scholars exists, but it does not seem as well-developed or publicized as its data science counterpart. Also, limiting it to first-year students which it claims to do is a terrible idea for reasons which should hopefully be obvious.
+
+When Data Scholars get accepted into the program while taking Data 8, they attend "workshops" which mainly revolve around a guided close reading of the Data 8 textbook coupled with some practice questions, with a member of staff present to help. For a class like 70 where reading the notes is often cited as the best way to learn the material, I'm sure this opportunity would be welcomed by many students. Scholars also get smaller OH exclusive to them, which leads to a much more vibrant environment where students are all eager to help each other. I definitely think some kind of system like this for all three of the declaration classes can work wonders, even for 61A and 61B where I feel their textbooks are massively underutilized.
+
+Support for minorities doesn't even have to be part of a dedicated Scholars program. I would strongly advocate for introducing discussion and/or lab sections that are exclusive to a minority group or otherwise uncommon type of student, but I urge that **they should also be taught by a member of that group if possible**. The value of having your GSI double as a role model to prove that you can make it at this university cannot be understated. With the size of the program, there are bound to be enough students for such sections to flourish. Some groups I'm thinking of include but are definitely not limited to: no prior experience, transfer students, international students, women, LGBTQ+, and people of color.
+
+# Conclusion
+
+The title of this post suggests that I believe that the CS program needs to be fixed. I concede that this is unlikely to happen, and that the status quo of a cutthroat, heavily gatekept program will remain. With the new bills to reduce out-of-state enrollment in CA public schools being passed, the university will have a greater concentration of in-state students before long. Since the student body will be more representative of Californians, I suppose that my views being an OOS student who had vastly inferior kinds of extracurricular opportunities to that of the average Bay Area high school student aren't very meaningful. However, it is OOS and international students who are going to be disproportionately affected by these changes, with an environment that is much less welcoming towards them. It would be remiss to not mention that inequity exists within Californian students too, and from my conversations with in-state students that identify with marginalized groups, a lot of the problems I have are also applicable to them. 
+
+I'll leave with this: During an EECS town hall, I recall a student asking the panel how a proposed change to the L&amp;S CS admission policy plans to give minorities a chance to succeed. They had no answer.
+
+## Top comments
+
+[u/random_throws_stuff — score 41]
+I am sympathetic to people who grew up poor and had no access to a quality education when they were young. I can understand that Cal is not a very welcoming place for someone like that.
+
+But I'll be real with you. You're an OOS student, which means your family could afford to pay $60k/yr in tuition. I'm guessing you had access to a quality education as a kid. (I could be wrong, in which case I apologize.) I think you blaming Berkeley for your insufficient preparation for cs70 is misguided.
+
+There isn't any magical secret sauce in Bay Area high schools that you wouldn't get at a good, well-funded high school elsewhere. Some people seem to have the idea that everyone here has gone to special CS tutoring since they were 5 or something. I went to a pretty rigorous high school. Our honors/AP math classes were hard as shit. Those kind of classes definitely help prepare you for college. But even at our high school, many people -- including people who got into Berkeley and were at least average students -- just were not cut out for them. These were students of the same income, same background, and same privilege level; I feel confident saying that the difference here was just individual ability. Same story goes in cs70 - plenty of people from wealthy backgrounds struggle completely in the class.
+
+Frankly, a class like cs70 is supposed to be difficult. We can try to correct for structural issues in our educational system, but I don't think making the class reasonable for every single student should even necessarily be the goal.
+
+[u/DanceTerrible407 — score 29]
+go outside
+
+[u/127-0-0-1_1 — score 25]
+To think, all they had to do to make EECS/CS majors take R&amp;C was to make the class about EECS enrollment
+
+[u/UMR_Doma — score 23]
+&gt; I would strongly advocate for introducing discussion and/or lab sections that are exclusive to a minority group
+
+Why, do you want to further isolate them from the population?
+
+[u/berkeleymathcs — score 18]
+All this just sounds like you’re complaining about Berkeley’s rigor. It’s the best CS school in the world, nothing like high school. Just own up to it.
+
+[u/StaringAtWall — score 13]
+How would more money not fix these issues? It would allow us to offer gentler introductions and alternative paths as well as more resources
+
+[u/exclusiveassmofo — score 13]
+Y'all had me scared as shit before I took my first cs class here. I came in with no coding experience, and only up till pre calc cz my high school didn't have ap calc, fuck, you give me a line of code in any language and i might just have thought its a foreign language. I just did cs61a last term, I got an A- missed an A by a point. And I didn't even think it was too much work, just do what you're supposed to, go to discussions and lecture, do the project, hw, lab honestly, and do a couple practice exams before midterms and finals and you're set for atleast an A-. Lot of people don't do what they're supposed to and complain, my sections had 40 people enrolled but only a combined total of 6 including me showed up after first 2 weeks. So if you want to do well, reflect on yourself, and put in the work. I also came with no such background and a severely under-resourced school, so that excuse doesn't work. Although I am yet to take cs70 I'm sure the same rules apply for any class. Stop complaining, get working. As far as all of this is is concerned, I seriously do think its a fair field. Even if not, life is not fair, some would have to work harder than others. Sooner you learn the better.
+
+[u/final321countdown — score 11]
+Sounds segregationist to me.
+
+[u/Quazister — score 9]
+&gt;“Sometimes these groups won’t even speak English!”
+
+… and?
+
+[u/StaringAtWall — score 9]
+Also, lower divs often do have labs and sections that are intended for people with little experience or are behind in the class
+
+[u/TheAtomicClock — score 9]
+Skill issue
+
+[u/ProfessorPlum168 — score 7]
+Although I am closing in on retirement, I think my story should be told and hopefully this will get through to some of you.  I grew up in Chicago in an inner city area that went from a very mixed racial groups (Polish, Lithuanian, Chinese, Hispanic, African-American) to almost entirely Hispanic and a African-American around the time of the MLK riots.  We chose to stay because my dad had a business-a stereotypical laundromat, and didn’t want to leave, for whatever reason. Although he did retire when I started HS, and we were dirt poor other than the house we had.  I was so embarrassed as I never got to go on field trips as we couldn’t afford the fees.  I went though 12 years of school, being the only Asian student all 12 years.  Got stunted culturally because of that. I even went to a shitty high school instead of going to Lane Tech or Whitney Young like all the smart kinds in my middle school, because my mom and dad had no clue what the difference between a good school and a bad school was, their mantra was that you yourself is what you make out of yourself. Plus they didn’t want to/ couldn’t afford to pay bus fare.
+
+The area was completely gang-infested (do a YouTube search on Chicago gangs in the 70’s, I lived thru all that) and looking back, being Asian and not looking like them probably helped me, as no one ever went after me or recruited me.  But so many my age got caught up in this, many of my friends included.  The top player on our chess team, close to a 1800, which was really high for a high school player back in those days especially in the inner city, got his head bashed in by a baseball bat and died.  All because he didn’t want to pledge anything to the Latin Kings. The quarterback on the football team got killed on a random drive-by. An African-American guy got beat up in a white neighborhood, and the next day a white guy at my high school got killed in retaliation for no reason other than being the wrong skin color.
+
+All schools started with Algebra in 9th grade and by the time I got to pre-Calc in my shitty school in 12th grade, there were only 3 students, and we taught ourselves pre-Calc and Calc.  No after school classes like in Stand and Deliver. Just us. Although there was a Physics class at nearby IIT that was offered for free on Saturday’s to seniors in HS who didn’t have it in their HS.  Prep for ACT and SAT?  It was called going to the public library or the counselor’s office and taking practice tests.  One advantage of the school as it turned out was that it was by dumb luck a public high school that got a grant for a decent amount of funding for computers, which didn’t exist back then anywhere, so we got a mini-computer and a bunch of TRS-80 machines.  And so I was a nerd hanging out in the computer lab so much in my last 2 years.  All on my own, or actually there were 4 or 5 of us like that.
+
+The ironic thing is that I got into UIUC and Northwestern (and my kid got rejected to Northwestern 37 years later even though his SAT score was 200+ points higher lol), but for whatever reason neither school offered any money (probably not the case nowadays) for boarding.  I wound up going to DePaul, where they did cover me for tuition via Pell and scholarship, and I commuted.  Now DePaul isn’t particularly known for being a great academic school, but I had troubles my first year as the level of teaching was well beyond what I had to do in HS.  Ended up with a 3.0 after my first 2 quarters, kind of a shock after being a 3.97 in HS.  (Lost out on the valedictorian in HS because my art teacher was a Black Panther devotee who hated everyone who wasn’t black and she gave me a C even though I did all the work). Also my dad died during the first quarter which didn’t help.  I got fired from a job as an assistant at some life insurance brokerage because the boss expected some stereotypical docile obedient Asian guy who took orders without question, and I was the type that questioned everything.  But I persevered, I just pushed through, I organized everything myself, no help from anyone other than staying at my parents house making sure I didn’t vary in my path walking from the El station to home and avoiding all the residential gang claimed areas.  No one ever handed me anything, and I had to deal with so many barriers. And yes I did get a degree in Computer Science and subsequently a job in Silicon Valley.
+
+So although I do empathize with poor people having barriers thrown at them due to lack of resources or being in the wrong environment, affirmative action shit does nothing to help students.  Community college is there to bridge the gap.
+
+[u/UMR_Doma — score 6]
+I don’t see a reason for it, it would just make black Berkeley students even more lonely and resentful of everyone else
+
+[u/w3wladdy — score 6]
+I personally feel like the CS department should limit enrollment and keep the program at a level that's tenable for all staff and conducive to an environment where students have access to all the resources they need.  No more 2 hr+ OH queues, unanswered Piazza posts, 25 person lab help waitlists. Clearly there are too many students for the staff to handle.  When students get the help they need, when they need it, the overall experience will be much better.  I do agree that the classes need to be reworked, such as CS70.
+
+[u/random_throws_stuff — score 5]
+Individual ability plays a much larger role than people like to admit. I feel it’s easier to just blame your surroundings and upbringing. That kinda makes sense for someone who went to a school like yours but just sounds ridiculous coming from someone who can afford OOS tuition.
+
+[u/random_throws_stuff — score 5]
+I've seen you around this sub a lot, very cool to learn your life story :)
+
+[u/nhstaple — score 2]
+I highly encourage you to look at Assembly Bill 705
+
+[u/AutoModerator — score 1]
+This post has been removed because our Automoderator detected it as spam, or your account is too new to post here.
+
+If this post is **not** spam, please contact the moderators for assistance.
+
+Check out the megathread for frequently-asked questions: https://old.reddit.com/r/berkeley/comments/pad3m1/29_welcome_to_campus_for_the_first_time_freshmen/
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/berkeley) if you have any questions or concerns.*

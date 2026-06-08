@@ -1,0 +1,292 @@
+# [Critique] CS70 is made artificially harder. Here's how it can improve:
+Subreddit: r/berkeley
+Posted by: u/cs70manifesto
+Score: 541    Comments: 114
+URL: https://www.reddit.com/r/berkeley/comments/ura55a/critique_cs70_is_made_artificially_harder_heres/
+
+## Original post
+# Introduction
+### Motivations
+
+I wrote this constructive critique to motivate CS70 and other similarly dense and not beginner friendly material courses to follow suit in the suggestions I give. CS70 staff likely know who I am and if you would like to have a more in-depth discussion, please feel free to reach out :)
+
+### Establishing Credibility/Reputability
+
+To preface: I have (and when I say this, I’m not exaggerating) studied on average ~10hrs every single day of this entire semester. From 1/18 till 5/12, I have spent approximately 900 hours on CS70 alone, which doesn’t include office hours or discussions or CSM sections. I go to 4 discussions per week (2 different TAs) and I always stay late to ask questions. Additionally, I attend 2 CSM sections per week, I go to OH every day, I have a tutor, post on Piazza and Discord anytime I’m confused, and I spend my entire day from start to finish in the library studying JUST 70. Think I’m overexaggerating or lying? My hours are tracked, 70 also has a log of all my OH tickets, and my discussion TAs, and OH staff can back this as well.
+
+&amp;nbsp;
+
+**Why do I feel like I’m qualified to critique the course?** I have significant prior experience privately tutoring students before and have had substantial involvement in the sequencing, design, and structuring of 3 different courses as well as development of course material at my high school (internationally recognized for one of the courses). And as previously mentioned, I have followed and done everything as recommended by the course staff, Rao/Sahai, and others on how to study/”survive” in cs70.
+
+---
+
+#1) Overall
+
+Let me be very clear, this course is not equitable. In fact, this is emblematic of a much larger issue: none of the lower-divs (mainly 61A &amp; CS70) are. In 61A alone, prior experience is the single most significant predictor of success; according to Pamela, only 15% of NPE students get a B+ or higher. In CS70, this gap is way bigger and they probably have the data to support this claim; students with prior exposure to competitive or rigorous math at any level pre-college whether it’s USAMO, USACO, AIME, AMC or multivariable/linear algebra at a local college have a MASSIVE advantage. It’s a compounding advantage because those with prior exposure need to spend less time to understand the material (the so-called “mathematical maturity”). More precisely, their per unit of time spent has a faster rate of change (their score) versus NPE students. Lower-income students also oftentimes have to work to support themselves while in school, so the only gap-closer (spending more time on the material) is now no longer an available option. I say this as a first-gen student coming from a low-income background where the highest level of math taught at my high school is Elementary Calculus. Not everyone had the ability to take rigorous math nor was put through it. Specifically, my school only offered Integrated Math I, II, III, then “AP” Calc. 
+
+&amp;nbsp;
+
+The course is WAY TOO FAST-PACED yet expects students to be able to reproduce every proof from a note that we read the day before. The goal of the class commonly said by Rao, Sahai, and CS70 TAs is to “encourage learning” or to “just learn the material and you will do fine.” This fails to acknowledge that the barrier to entry is way higher compared to 61A or 61B; **CS70 artificially inflates the difficulty of the course by intentionally creating a scarcity of resources** (or not investing time into developing resources), which I would argue is contradictory to this commonly spouted goal of “encouraging learning." “This is hard material” is not a sufficient excuse for poor presentation and teaching of material (both in the notes and in lecture). Furthermore, from my experience interacting with course staff in OH every single day and other mediums, it’s also clear that the hiring practices significantly prioritize grades over teaching capacity. I along with many others intentionally try to avoid certain course staff in OH because we consistently run into the same one-dimensional math comp explanations. Yes, the material is hard, but you do not have to make it any harder than it already is. 
+
+---
+
+
+
+#2) Lectures
+
+My main point is this: the lecture should be intended as an introductory aid i.e a conceptual overview of all the main important pieces of the topic (ex: show FLT proof but not derangement, leave that for the note). This flows perfectly since notes should be used to deepen the understanding and discussion is used for application of the theory.
+
+&amp;nbsp;
+
+An overwhelming majority of students will tell you that lecture is useless (supported by student survey data as well) and it’s motivated by a variety of factors. I will mainly address the slides i.e the presentation of material in lecture in this section. 
+
+&amp;nbsp;
+
+According to Professor Sen, lecture slides are said to never be changed or modified in any way no matter the professor (rules by the dept apparently?). I strongly disagree and so does the educational research. Lectures should include more visual aid and more colors instead of just black, blue, red. Colors help viewers stay focused instead of getting lost in a wall of all black text. Colors and graphic images help a ton with conceptual understanding and distinguishing what’s important and what to focus on. This could be something like putting a colored box around the theorem statement to make it easy to distinguish what the overarching statement is and then the proof in a different colored box can be formatted like a step by step tutorial (literally put step 1, step 2, and what we’re doing in each step) where every little detail is pointed out. This could be something as small as writing an arrow saying that this part of the expression is to account for the cookies, and this * 2 is for symmetry since bla bla. Most importantly, stop skipping on things you consider trivial- these are things that get students stuck from minutes to hours. Common instances of this are jumping 3 steps in a proof or implicitly making a simplification that YOU consider trivial. 
+
+&amp;nbsp;
+
+Sometimes, slides legitimately just don’t cut it and that’s why you have the lecturer there. They should be there to guide you through their thought process and how they approach it instead of brainlessly clicking through slides. Literally write out your steps instead of rambling out loud what the steps are- literally write it out- write out where we are, then the next step, and then the next and explain while doing it. This provides a visual aid to focus on and the exact thing to associate with the explanation coming out of the lecturer’s mouth. Again, I can not stress this enough: visually walk the viewer through the proof instead of telling it to them and then having a bunch of slides spam clicked. The reason students come to lecture is to pick up what the slides alone cannot convey and it’s the rationale for each step, the thought process, the conceptual intuitive meaning. 
+
+&amp;nbsp;
+
+Here are some exemplar models of good lecturing/slides: 
+
+A)  [Stanford’s CS70 equivalent](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html)
+
+B) [MIT’s CS70 equivalent](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/)
+
+C) [Alec Li CS170 notes](https://smartspot2.github.io/assets/pdf/CS170_Lecture_Notes.pdf)
+
+---
+
+#3) Notes
+
+The notes are massive time sinks that are unnecessarily convoluted and overly complex for no reasons. The argument that this is how math is presented and that other courses later on will be way worse are bad cop-outs for putting in actual work into synthesizing and boiling down material into layman terms that people (undergrads) can actually understand. 
+
+&amp;nbsp;
+
+The notes are literally pages and pages full of walls of black text. Add some freaking colors, box the theorem in blue, highlight the equation in red, or even something as simple as putting a visual of probability space A and B and their overlap and coloring it, or coloring the cycle of a graph. 
+
+&amp;nbsp;
+
+Intentionally designing things by selectively excluding clear explanations or step-by-steps doesn’t help stimulate learning, it just confuses and angers students; for example, a visual step-by-step on how to build hypercubes and assign their bit strings instead of saying it in a one-liner in a gigantic wall of text. Why conceal information about how to deal with E[min(X, Y)] instead of explaining that you could convert it to P(X &gt; t, Y &gt; t)? Students don’t have unlimited time and it’s clear that our time isn’t respected; you can not reasonably expect a student to spend 30 hours on this course alone. 
+
+&amp;nbsp;
+
+These are intentional choices made to artificially make the course more difficult and arduous than it needs to be. For students who don’t have time to spare this has a disproportionately worse effect (this group tends to be lower income folks, minority groups, less privileged). 
+
+&amp;nbsp;
+
+The example of assigning bit strings on a hypercube is just one example (off the top of my head) of a concept that students routinely get confused on. If students ROUTINELY ask questions and have trouble with X topic or Y question every single semester, shouldn’t it warrant looking into? It clearly means that the explanation is not good enough. There’s a difference between trying to induce confusion to stimulate growth and a clear lack of a proper explanation. 
+
+&amp;nbsp;
+
+Here are some exemplar models of good notes: 
+
+A) [Stanford’s notes for their CS70 equivalent](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html)
+
+B) [MIT notes for their CS70 equivalent \(specific note on conditional probability\)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/mit6_042jf10_chap14/) 
+
+C) [Hug Sp21 61B](https://sp21.datastructur.es)
+
+---
+
+#4) Exams / Walkthroughs / Recordings
+
+To be blunt: make better solutions or make exam walkthrough videos. Potential suggestion is to have a TA make videos doing a conceptual overview of topics like Sahai did for the Sp2014 semester (can be viewed on YouTube). These short 10-15 mins videos made by Sahai and other course staff are phenomenal material that provide additional resources for students to access beyond just the notes and slides. 
+
+&amp;nbsp;
+
+Exam solutions should be written like Alec Li’s Fall 2020 Final rewritten solutions. Every single step should be broken down (stop skipping steps, stop saying X is trivial, blabla) in laymen terms and how to conceptually think about it and the different ways you could approach it. 
+
+&amp;nbsp;
+
+I’ve previously spoken with Tarang about past exam walkthroughs. CS70 used to do this in the past but stopped for some reason. His reasoning was that “we want to encourage learning,” but that is contradictory. 
+
+&amp;nbsp;
+
+If your whole goal is to encourage learning, why offer a no-HW option? If anything, by that logic then all students should be required to do the HW not only for structural/disciplinary measures but to also develop a better conceptual understanding. Clearly, this isn’t the case and by offering a no-HW option the course actively supports the testing approach which goes directly against the whole “encourage learning” goal.
+
+&amp;nbsp;
+
+### Other related suggestions:
+61AB has a plethora of resources, so that even when you’re stuck you can find resources to help you get unblocked. Exam prep videos, exam prep sections, NPE sections, videos specifically about recursive runtime, or 61C’s catchup sections. In 70, you have lectures (which majority of people do not watch), notes, and in-person discussion (if you end up not being able to go, tough luck! If you forget the nitty gritty of what was covered, tough luck too!).
+
+&amp;nbsp;
+
+The benefit of developing these materials starting now is that it will pay absolute dividends in the long-term. For example, students still watch the Enigma/Gitlet explanation videos from 61B which were made years ago. It’s not like mod arithmetic, for example, will suddenly change 20 years down the road.
+
+&amp;nbsp;
+
+Here’s what you should do: build a database of resources, reuse it semester-to-semester → this reduces the workload of OH, TA’s, etc in the long-term and also saves on cost/time! That’s all to say that the second-order effects are huge. In fact, if the whole goal of the course, commonly said by Sahai and Rao, is to “just learn the material” then why restrict resources to force people to interact with course staff? Why create extra barriers to resources to enforce your methodology?   
+
+### Suggestions:
+* Discussion Walkthrough videos:
+     * Data 100 releases discussion walkthroughs intentionally a week late to encourage people to go to live discussion
+     * Ex: [Data 100 Fa19 Discussion 2](https://www.youtube.com/watch?v=0CiUCgSr-Mg)
+* Concept walkthrough videos i.e RSA, Mod Arithmetic
+     * Ex: [61B Asymptotics Introduction](https://youtu.be/bBqfehNv7mQ)
+     * Ex: [Sahai Mini-Lecture on Mod Arithmetic](https://youtu.be/l0DWLBX5d2A)
+* NPE/Behind/LOST/Exam-prep Discussion sections
+     * 61A, 61B, 61C, 189, 170, Data 100 all have some variant of these
+* HW Walkthrough videos
+     * Ex: [Sp14 CS70 Homework 1 Problem 2](https://www.youtube.com/watch?v=qkm-YdTJjrk)
+* HW Introductory videos:
+     * Ex: [CS61A Fa21 HW03 Q: Num Eights](https://www.youtube.com/watch?v=hihU9yqfndM&amp;list=PLx38hZJ5RLZehTD4yb15G7zKmMEJDHNdn&amp;index=3)
+
+---
+#5) Teaching Pedagogy / Hiring Practices
+The hiring practices are based primarily on grades. While Richard has pointed out that CS70 no longer solely relies on an algorithm to assign points based on grades, it doesn’t take a genius to figure out that most of course staff and especially readers are math comp kids. 
+
+&amp;nbsp;
+
+The main reason for bringing this up is because those who come from rigorous math backgrounds or ones where they've likely competed in USAMO, USACO, AIME, AMC or taken multivar, lin alg, discrete, etc before even coming to Berkeley are gonna naturally be ones to do well in the course. Doing well in the course translates to better odds of getting hired. And funnily enough, out of the 48 cs70 course staff members who responded to the internal poll about comp math: 27 did comp math in HS, 9 did comp math but only in middle school, 12 never participated in math competitions. Now, I’m not a stats guy but that looks like an overwhelming majority to me. I want to be clear that it’s not problematic that they come from rigorous backgrounds, because I have received help from fantastic readers and TAs with a comp math background and they were great- but the flipside is that my poor experiences (as of many others) have mainly come from those with comp math backgrounds whereas I have had absolutely no issues from those without comp math background.
+
+&amp;nbsp;
+
+It's very clear that this is true when a reader/TA gives an explanation that is one-dimensional; one that is likely derived from a math comp perspective. I have routinely had poor experiences with certain readers and TAs in OH, so much so that I along with many other students try our best to avoid them. Do you know how humiliating and demeaning it is to ask for help KNOWING that the person helping you will condescendingly mock you (most of the time implicit or implied, never direct) because you value the help more than getting degraded? In 61A and 61B, asking for help never felt like I was being ridiculed or looked down on. Yet, at 70, I feel it at every step. 
+
+###Suggestions:
+Introducing/encouraging course staff that comes from different backgrounds (non math comp, low rigor HS) would be a great addition. Another focus could be a better filtering mechanism. I like the approach that 61A and 61B take where you have to teach a concept to current course staff who role-play as students and ask student-like questions- teaching extends beyond just grades; someone with an B+ could be a WAY better teacher than someone who never struggled and got an A. If a course staff member feels that they communicate better over Piazza/Discord/Online, that should be a role/responsibility instead of shoveling everyone into a people-facing role which could have an adverse effect. As aforementioned in the previous section, within the content team one of the highly rated TAs responsible for those walkthroughs/recordings!
+
+&amp;nbsp;
+
+It is SO important that the people joining course staff are non-judgemental, welcoming, and patient. The impact that these people have on students extends beyond just learning, it goes deep and emotional.
+
+&amp;nbsp;
+
+**TL;DR: CS70 is made artificially harder by creating a scarcity of resources. The course is not equitable and heavily disadvantages minorities &amp; lower-income students because they likely haven't taken rigorous math needed and are more likely to work during school. Slides and notes have a lot of room to improve, and "this is hard material" isn't a sufficient excuse for poor presentation. CS70 should make walkthrough videos (discussion, hw, concept, etc) and not doing so goes against their own goal of "encouraging learning" by restricting resources. Furthermore, hiring practices are skewed and majority of course staff come from comp math or rigorous math backgrounds, which becomes problematic when students poor experiences are a result of one-dimensional math comp explanations.**
+
+## Top comments
+
+[u/ProfessorPlum168 — score 137]
+There’s still a ton of HS’s out there where the advanced curriculum is to start with Algebra in 9th grade and end with pre-Calc in 12th grade.  In face that’s what that lady at Stanford who got reamed by Prof Nelson is pushing for in schools as a standard.
+
+[u/pixelated_fish — score 84]
+Been saying this about the CS trifecta for declaration. Those with prior knowledge and experience with the material do significantly better than those who don’t. 
+
+Great report!
+
+[u/CrepesSuzzette — score 62]
+&gt;The course is not equitable and heavily disadvantages minorities &amp; lower-income students because they likely haven't taken rigorous math needed and are more likely to work during school.  
+
+Facts. It's actually insane how much of an advantage silicon valley kids (you know, the types that went to schools like Lynbrook, Monta Vista, Mission SJ, etc. etc.) have when it comes to a course like CS70. Most of these kids have had significant exposure to multivariable calc, LA, and other advanced math that while not directly applicable to CS70, has certainly had a profound impact on their mathematical maturity which is huge in a class graded on a relative curve like CS70. And that's not even including the easier access and greater opportunity these kids have when it comes to pursuing competition math (AMC, AIME, etc. etc.). Many of low income friends in CS/EECS have stated that they were lucky to even have AP Calc AB (Calc 1) offered in high school. 
+
+I hope your post gets the necessary traction and spotlight deserves. CS70 is by far the most unequitable CS class at Berkeley, which is a real shame. Considering that courses like 61A have made large strides to level the playing field (precursor classes like CS10, etc etc.) , I have optimism that the situation regarding 70 can and will be improved.  
+
+Excellent write-up, OP.
+
+[u/greedygandalf1414 — score 61]
+they would fit right in at Google... all talk and no work being done
+
+[u/random_throws_stuff — score 57]
+I think you bring up a lot of good points, but the teaching issues are harder to fix than you realize. I got an A+ in the class and was a reader for a semester of 70, but the honest truth is I still didn't understand like half the material in the class well enough to walk someone else through it in depth - most of how I solved problems was just intuitive leaps that I couldn't fully explain to another person. (part of this might be that I'm not the greatest teacher, but I still believe what you can teach is a strict subset of what you yourself understand.)
+
+cs70 is a very, very difficult class conceptually speaking. there are a literal handful of people per semester who genuinely understand the material inside-out, to a point where they can teach it effectively. these are usually the people who've been doing competitive math for 10+ years and made USAMO. my experience has been that these people (as opposed to people that just dabbled in competitive math - making aime 2-3x will help you ace cs70 but isn't really impressive on the same level) are usually the best TAs. using grades isn't the best metric, but I understand why they do it for 70.
+
+I think this class would heavily benefit from GSIs with a lot more experience, since almost no undergrads are actually qualified to teach this class. The ones that are are usually anomalous math prodigies.
+
+[u/Shakespeare257 — score 53]
+I am a math PhD student, former Olympiad brat and I tutored CS70 for a bit this past semester.
+
+This course is an abomination. It condenses years of math maturity and proof experience inside... 14 weeks. It is 4 classes in 1, neither of which is given enough time to grow into the minds of students. The easiest way to resolve the issues is to split the course into a 2 semester sequence that actually takes the time to teach you how to do proofs and why proofs matter in CS.
+
+Also take out the probability module. I understand that it has bearing on other classes in CS, but... there are dedicated classes that teach you the material properly in the departments that teach these things for a living (stats, math).
+
+That said, I also disagree with OP's take on the "skewed hiring practices" - mathematics is mostly about imitating the proofs and solutions of other people until you get it. The pool of people who "get math" to the level that it is required in the CS70 curriculum is already small enough - would you rather be imitating someone who "gets it" or who "doesn't get it"? Or is the claim that there are other capable potential staff who get looked over?
+
+[u/tums_festival47 — score 50]
+Excellent write up! I’ve had similar feelings regarding classes with artificially inflated difficulty at this school, and you have great suggestions to help prevent this. Classes like CS 70 really soured my opinion of Berkeley.
+
+[u/Historical-Web-9235 — score 50]
+I agree; I’m in my last semester, and cs70 was the hardest class, and I had to take it twice. The reason why it’s hard is not only because of the conceptual difficulty, but also because of the lack of material and the way it’s presented. Your point about skipping steps or how there’s constant “for practice, the reader should finish the proof” was the biggest time sink. I hated spending the majority of time being blocked on those logical leaps. This is something I realized later in my academic career; when you have no idea or foundation what’s going on, you need to know the solutions to actually learn effectively. That’s why the homework was so ineffectual. In other classes, homework is a ramp up in difficulty and you learn through problems. CS70 it’s harder than anything else, so it’s just a waste of time for learning purposes if you’re not strong on the concepts. Honestly, if I were to do it again, I’d skip all the homework’s and just do a midterm every week (read the solution and try to backsolve). That’s what I do for leetcode and it works pretty well.
+
+[u/127-0-0-1_1 — score 49]
+&gt; precursor classes like CS10
+
+Fun fact, that use to exist for CS70: https://decal.berkeley.edu/courses/4510, it was incredibly popular, with rave reviews, and as far as anyone could tell really helped a lot of students in CS70
+
+but ~~Sahai~~ theory professors killed it because "sInGlE sOuRcE oF TruTH"
+
+Some faculty are actively preventing efforts to bridge that gap.
+
+[u/astrophysicsprof123 — score 39]
+LMFAOOOOOOOOO YOU SPENT 900 HOURS ON THIS CLASS????? thats probably triple the amount of time I spent for my entire 4 years at berkeley on classes combined
+
+[u/Zodorac — score 38]
+I don’t care if you don’t end up passing or getting a good grade in CS70, this is such a strong data backed argument with incredibly specific suggestions to improve that I will give you a referral to Google if you DM me when you’re on the job hunt. Dead serious. This is way better than most product proposals or eng docs I’ve seen at Google
+
+[u/thewindows95nerd — score 33]
+Thank you for writing up about CS70. I've learned to hate this course for the whole semester that I took it especially given how it has pushed my body to its physical limits. I do like the content in the course but this course has a very unwelcoming environment.
+
+[u/mackincheezy7 — score 31]
+I don’t know how to do the quote shit but this may be ugly, but a few takeaways 
+“In CS70, the gap is way bigger and they probably have the data to support this claim”
+Source?? In fact I would imagine it’s significantly smaller if we’re considering everything, because for a substantial amount of students CS61A is their first time ever coding, whereas CS70 is certainly not their first exposure to math. Additionally, many recommend taking courses such as the EECS16 series and Math 53 in order to prepare for CS70. This preparation simply doesn’t exist for the 61 series as the only courses available are CS 10 and Data C8, which simply do not come near the rigor of the CS61 series.
+“An overwhelming majority of students will tell you that lecture is useless” 
+And an overwhelming majority of students struggle in CS70. As someone who went to essentially every lecture, I can assure you a large portion of students did not go at all, however the people that I know that did go (granted this is anecdotal), ended up doing well in the course. I would love to see data on this, and of course this is just speculation, but I guarantee there’s a positive correlation between lecture attendance and grades. 
+
+“I have spent approximately 900 hours”
+
+I’m sorry but this is just absurd. There just exists diminishing returns in studying and it simply does not make sense to be spending this much time. Not all studying is created equally, and I highly encourage you to reach out to peers that did well and see what their strategy is and adapt your study habits.
+ 
+This one is two quotes 
+“For students who don’t have time to spare” 
+“Why offer a no-homework option”
+You critique CS70 through Tarang with past exams not including enough walkthroughs on the solutions. First off I think I agree with this philosophy of not just handing out the answers to students, and the person that convinced me was Professor Adikhari who designed Prob 140, and is an incredible professor. When you have difficult topics like Discrete Math and Probability Theory, all the learning comes through struggling and developing your own problem solving techniques. Seeing the answer just simply restricts your ability to learn. And I think the no-hw option exists purely for the reason of being accommodating. 
+
+“61AB has a plethora of resources”
+
+I have to hard disagree with this. In office hours for CS61B it was extremely common for people to wait for 3 hours absolutely stuck on a bug, only to get 3 minutes with a TA that gave them the completely wrong advice. That simply doesn’t exist in CS70 where there isn’t the same existence of getting stuck on a bug, and there is always quick response times in office hours (legit the few times I went I was the only one haha).
+
+Overall, I think CS70 is difficult because 1) people do not take the proper prep courses to gain that “mathematical maturity” (cringe term but true) and 2) because you just simply can’t half ass it like CS61 series where you can just spend a couple days grinding practice exams (61A) or projects (61B/C). Attendance is absolutely abysmal in CS70 and it’s just not a course you can be not present for and do well.
+
+[u/Ex_EECS_GSI_Throaway — score 29]
+Former CS70 GSI here.
+
+These are all superficial problems. The real problem with CS70 is that it's a monstrosity spawned by intra-departmental politics.
+
+They are trying to cram too much material because there are conflicting requirements from the EE and CS sides, but the EE v CS rivalry does not allow them to remove material so that what remains can be taught properly. They are also trying to make it “sexy” by teaching advanced topics like RSA, error-correcting codes, and linear regression.
+
+Conventionally, math is taught by first providing a bit of motivation for a concept, then the concept is given a rigorous definition, then simple claims are proven, then its properties are explored, and finally some proof of a minor or major theorem is given. The proofs are often chosen to illustrate new mathematical techniques. 
+
+In CS70, there's some motivation but concepts are not defined with rigor, there's no time, so simple properties are not explored, not shown and not proven, and we jump directly to some proofs that students are not equipped to understand.  Students are in a constant mathematical haze.
+
+For example, to teach error correcting codes and secret sharing, you must first teach polynomials over finite fields. But CS70 does not even define what a field is, and finite fields are given a single lecture slide and a bit more than single page in the notes. 
+
+I can give many other examples.
+
+This is supposed to be the first course where students are exposed to proofs and mathematical rigor, but there's simply no time for that and the course fails in its most important mission.
+
+There is no textbook. The reason is simple, no one else is crazy enough to cram all this material into a single course. The notes are no substitute. They are a mess.
+
+The massive use of UGSI is a big problem. They are very smart and motivated, but they often don’t have the mathematical maturity or perspective to teach this kind of course, especially the second year ones.
+
+And finally, if the department wants to require the student to work for the equivalent of an 8 unit course, it should be honest and list CS70 as an 8 unit course, not force students to give up other courses and any resemblance of social life. University regulations are there for a reason, y'all should file official complaints against the department.
+
+On the positive side, at least it is not as bad as EE16B.
+
+[u/random_throws_stuff — score 26]
+your point about the difficult high schools is correct, but not for the reason you think. fact is not all algebra 2 / precalc / ap calc classes are created equal. the double honors math pathway (algebra 2 in 9th, precalc 10th, ap calc 11th) at many of these high schools, including mine, was **very** rigorous. like, most of these classes were harder to get As in than cs70, even if they were conceptually easier. tests would be hard and require outside-the-box thinking in ways that most high school math classes do not.
+
+even if someone never touched competitive math or a course beyond ap calc in their life, if they could get As in the hard math classes at my high school they'd easily be prepared for cs70.
+
+[u/Golden-Oso — score 26]
+I don’t understand how limiting resources like these does to help anyone. ~~In the most polite way,~~ fuck anyone who actively tries to discourage others from learning and attempting to get a better understanding of topics so that they can succeed academically. If people are seeking resources such as these, it’s most likely because they’ve never had the opportunity to get a high quality education prior to Berkeley. In fact, for some students Berkeley might be the first institution which gives them access to great resources such as these.
+
+[u/Low_Okra7573 — score 26]
+Agreed but cs70 is on a whole other level. I had an advance math backgroud. One of those kids who declared math their first semeseter. I noticed how poorly supported cs70 was but said nothing to anyone because it's the reason I scored so high in that class, by having background and knowing alternative actually helpfull online resources.
+
+Got ~0.7 sd in 61ab but was able to score 1.2-1.5 sd on cs70 because how poorly normal students were taught in that class it actually gave people like me an advantage.
+
+[u/TheAtomicClock — score 25]
+\&gt;students with prior exposure to competitive or rigorous math at any level pre-college
+
+I don't understand this point. 61A and 70 were never meant to be entry level classes and the professors really try to get this point across. People shouldn't be attempting 70 without at least Math 1A, 1B, and 53 if not more unless they're confident they know what they're doing. Prerequisites aren't enforced because some people have other backgrounds. Many students come to Berkeley with absolutely no experience, take CS 10/Data 8, Math 1A/1B/53 and do well in both 61A in 70.
+
+[u/CompIEOR — score 23]
+This deserves a thoughtful response from the course staff. Thanks so much for posting this. Illustrates why we need to have a direct to major process that uses holistic review rather than a 3.3 grade-driven process that lacks transparency, creates artificial scarcity, and favors specific backgrounds.
+
+[u/BbyDx — score 23]
+Wow, amazing advice

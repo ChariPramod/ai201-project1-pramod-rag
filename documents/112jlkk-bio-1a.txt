@@ -1,0 +1,92 @@
+# Bio 1A
+Subreddit: r/berkeley
+Posted by: u/EraserNinja
+Score: 13    Comments: 17
+URL: https://www.reddit.com/r/berkeley/comments/112jlkk/bio_1a/
+
+## Original post
+Is this course just known to be super messy and unorganized with instructors giving wrong answers and irrelevant practice materials? This course isn't challenging like how, for example, Chem 1A is challenging. Bio 1A is challenging because it is badly maintained course. Even with such esteemed professors teaching this course, still some of the instructors/TAs give confusing and sometimes contradictory answers (both in person and on Ed). I swear sometimes when students ask a challenging question the staff just ignores them because they don't know??? (like this isn't absolute paranoia, I've definitely see this happening enough) There is few practice materials available and it is very unclear what is tested or not as course staff give contradictory responses.
+
+The difference coming from chem/cs is quite jarring for me. I understand this course will not have the handholding enviornment as Chem 1A, CS 61A, or Math 1B and it heavily depends on memorization (but so is Chem) but at least give some acceptable (and correct) level of guidance? The biggest reason is staff in chem/cs/math actually care about dedicating time to the course instead of viewing it as a side thing. Like are you kidding, this is Berkeley bio when half the course isn't set up correctly at the start of the semester?
+
+And to the course staff, if you want to make hard questions, difficulty does not mean regurgitating trivia details that the students will forget by the end of the course. For example, take a look at biolympiad problems. They actually incorporate problem-solving with application to real-life experiments.
+
+Maybe I was just really naive and this is just common knowledge but does it get better afterwards?
+
+edit: the GSIs are great (or they are trying their best) this is mostly on instructors/course coordinator
+
+## Top comments
+
+[u/silverwave0 — score 8]
+nah you're not crazy, when I took the course I got the impression that not a single one of the instructors or course staff gave a shit about the students learning the material or about the class being run well lol
+
+[u/barkelay98765 — score 7]
+First, most of the problems are probably cause of that dumbass hoe Mike Meighan who structures the bio 1A/bio 1AL courses in tandem like complete horse shit. When I took the class in a semester where I was taking close to 20 units and didn’t have the time to study hard for the quizzes (which are exactly the same difficulty as the midterms) so I ended up failing pretty much all of them. I did study really hard for the midterms tho and so got an A in the class despite the quiz shit. My advice is hard focus your energy onto acing the midterms / out scoring your peers and otherwise just try to adjust as best you can to the shitty course structure. The textbook is your friend and the only thing you can rely on. Welcome to lower div bio by Mike meighan at Berkeley :)
+
+As for what is tested, everything that is covered in the relevant textbook chapters / sections they list can be tested on exams. The material can be super dense but to do well in the class you should know it pretty well in your head for the midterms. It’s not the bio Olympiad it’s a class that pretty much forces you to cram basic molecular bio material into your head that is fundamental to upper div courses
+
+[u/Holedigger88 — score 5]
+(Former) 1A GSI, it honestly surprised me how whack the course can be run at times. Some of it definitely has to do with Mike's approach to the class. I never really saw him as malicious, but he's really strict on the class being set up like a weeder course.
+
+I personally just saw the class structure as really flawed to begin with. You rush through really key fundamentals of biology in the first part, get tested on the most minute details, and then are expected to know those things for the second part when you do modern-day genetics. It was hard to teach what RNA-seq was when most of my students still couldn't grasp that RNA and DNA were different. It's just too much info to fully grasp, and really, the only way you'd have a clear advantage was if you took like an IB biology course where you were actually running pcr or something.
+
+Also, your GSIs are only human lol. All PowerPoint and discussion lectures were on us, so that meant trying to keep up with lecture well enough to teach it while also being in the lab for like 50-60 hrs a week. Ngl it did get to me at times when I had like 80 students all getting mad when I couldn't answer 1 specific question from some exam from 5 years ago, like damn were all trying our best here lmao.
+
+[u/hellokitty272 — score 3]
+Agree. They throw a shit ton of material at all and expect us to remember every single small detail
+
+[u/EraserNinja — score 3]
+damn it I was so excited about this course cuz bio was literally my entire life in high school, but now its just a garbage painful experience worrying about losing random points for no reason
+
+At least the lab class is well done and prof. doudna is really cool. It’s so ridiculous how much of a difference exists between lab class and regular class.
+
+[u/Transeunte-SG — score 2]
+A potential reason I heard is that one of the instructors adapted one of their older iterations’ structures to the current iteration, and this kind of mismatched the previous syllabus from earlier iterations by introducing materials that only made sense to the pace of that older iteration rather than the recent iterations’ paces
+
+[u/Queensfrost — score 2]
+Jennifer doesn’t do genetics research so it wouldn’t make sense for her to teach the genetics unit….her research is very much biochemistry and structural biology. But I agree it’s strange that she would teach the ecology component of the class…it would make much more sense for her to teach about DNA, RNA, proteins, and enzymes
+
+[u/EraserNinja — score 2]
+this is literally one of the biggest reasons why the course so broken, literally all the practice material is from older years where sometimes they didn’t cover or cover too much than what is taught this year and no one bothers to tell us after we do them
+
+and also why they gave us the wrong syllabus for entire week like wtf?!?!
+
+[u/EraserNinja — score 2]
+Nah 1AL is great its the only thing making me excited about Berkeley bio. It’s mostly 1A.
+
+[u/EraserNinja — score 2]
+Thank you for your dedication!!! Damnit I wish I had you as my GSI. It’s just my discussions are seriously giving me aneurysms every time. It’s not just challenging questions. Almost every discussion I have to correct or clarify their responses (this applies to when talking to instructors as well). Sometimes they just beat around the bush.
+
+I totally understand biology is just mainly memorization and doesn’t really build upon itself and thus you don’t need to know things outside your specialty. And I definitely see GSIs really dedicating alot to improve even when I’m sure they are very busy. It’s just the difference between staff from other core science lower divs is so jarring (even the Bio 1AL lab GSI/instructors are better).
+
+[u/YossarianWWII — score 2]
+Bio 1a and 1b are both mishmash courses that are taught by committee because A) nobody actually wants to teach it and B) there's no "Biology" department to exercise full control over its content. 
+
+That's why you get professors teaching components of the course that have nothing to do with their specialty. You mentioned Jennifer Doudna in another comment; she taught part of the Bio 1 series when I took it, and it was not the genetics component. I think it was the ecology component, which is in 1b iirc. 
+
+Also, I see from another comment that Mike Meighen is still there. Yeah...
+
+[u/Transeunte-SG — score 1]
+Well, I am not in Bio1A this semester so I know nothing specific. The wrong syllabus might be inherited from earlier semester’s template rather than the older iteration the instructor specifically picked to modulate from. If this is literally the core fault to blame, then I guess these problem would be relieved after you passed halfway of the course and enter photosynthesis with another instructor… If that’s not the case, then there might be more profound structural failures embedded inside contributing to this…
+
+[u/Transeunte-SG — score 1]
+Also, I am not sure your feedback to 1AL, is the problem you described only happening in 1A?
+
+[u/Transeunte-SG — score 1]
+That’s basically the same as what I felt when I took my iteration of Bio1A/L, even though I didn’t encounter huge shifts of syllabus since Prof. Randy Schekman already taught that class for quite a while and fixed the pace. Maybe the adjustment of syllabus made by one of the instructors of your iteration worsened the pace and caused some “frameshift” in teaching pace. Let’s hope this “frameshift” won’t “silence” anything too vital… (Btw, I still chose to take my 1A pnp and 1AL for letter grade since Randy’s midterm just escalated the difficulty to somewhere that could be formidable for people who took AP Bio as well…)
+
+[u/Prestigious-Park2349 — score 1]
+yeah doudna said mike comes up with the iclicker questions
+
+[u/EraserNinja — score 1]
+Does he make the content cuz almost every other iclicker/lecture slide/worksheet has something wrong or typos?
+
+[u/YossarianWWII — score 1]
+My recollection is that DNA, NDA, gene expression, etc. were taught in the same unit as basic genetics. Population genetics and genomics were part of an evolution unit. That could just be me misremembering, though, as I doubt anyone's taken the initiative to restructure the course in any way. Or is each class no longer broken into three units that are each taught by a different professor?
+
+[u/madnilyak — score 1]
+Don't even get me started on the quizzes that are not even during class time. They are literally in the afternoon on either Monday or Tuesday. Also, since they are online, almost everyone I know is cheating on these things and since there are so many people to proctor, the GSIs cannot catch it. 
+
+&amp;#x200B;
+
+I hate studying so hard for these quizzes just to get pretty bad grades and then I hear people talking about how they hide their other devices to use Chat GPT or talk to their friends through text.
